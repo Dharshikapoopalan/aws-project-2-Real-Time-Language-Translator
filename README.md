@@ -19,7 +19,10 @@ Estimated Time & Cost ⚙️
 This project is estimated to take about 1-2 Hours
 Cost: Free (When using the AWS Free Tier)
 
-<img width="1630" height="711" alt="521269186-af219e6b-0850-4582-b8d1-f4228d608be9" src="https://github.com/user-attachments/assets/4f516008-69da-40b0-9d97-fa45c1f441ce" /><img width="1630" height="711" alt="521269186-af219e6b-0850-4582-b8d1-f4228d608be9" src="https://github.com/user-attachments/assets/0fbbfb1f-d20a-413e-a248-0a0f6a849146" />
+<img width="1630" height="711" alt="521269186-af219e6b-0850-4582-b8d1-f4228d608be9" src="https://github.com/user-attachments/assets/4f516008-69da-40b0-9d97-fa45c1f441ce" />
+
+<img width="250" height="505" alt="image" src="https://github.com/user-attachments/assets/38afeed1-61b4-4f51-b8cb-7292783914a3" />
+
 
 
 
