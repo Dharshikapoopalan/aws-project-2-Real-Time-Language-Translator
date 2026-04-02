@@ -1,0 +1,20 @@
+Sample Utterances:
+
+I want to translate
+Can you help me translate
+Translate for me
+I want to translate in {language}
+Translate in {language}
+Can you translate in {language} for me
+
+Language Slot Type:
+French
+Japanese
+Chinese
+Spanish
+German
+Norwegian
+
+Lambda Role:
+TranslateFullAccess
+AWSLambdaBasicExecutionRole
