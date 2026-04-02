@@ -23,54 +23,5 @@ Cost: Free (When using the AWS Free Tier)
 
 <img width="250" height="505" alt="image" src="https://github.com/user-attachments/assets/38afeed1-61b4-4f51-b8cb-7292783914a3" />
 
-Sample Utterances:
-
-I want to translate
-Can you help me translate
-Translate for me
-I want to translate in {language}
-Translate in {language}
-Can you translate in {language} for me
-
-Language Slot Type:
-French
-Japanese
-Chinese
-Spanish
-German
-Norwegian
-
-Lambda Role:
-TranslateFullAccess
-AWSLambdaBasicExecutionRole
-
-Lambda Test Event:
-{
-  "sessionState": {
-    "intent": {
-      "name": "TranslateIntent",
-      "slots": {
-        "text": {
-          "value": {
-            "interpretedValue": "Hello",
-            "originalValue": "Hello"
-          }
-        },
-        "language": {
-          "value": {
-            "interpretedValue": "French",
-            "originalValue": "French"
-          }
-        }
-      }
-    }
-  }
-}
-
-
-
-
-
-
 
 
